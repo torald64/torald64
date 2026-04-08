@@ -1,7 +1,7 @@
-## Hi, I am Aaron👋
+## Hey, I am Aaron👋
 
-Currently I am in training as an IT specialist for applicationional development.
-This will be my Account for personal and fun Projects😄.
+Currently I do training as an IT specialist for applicationional development.<br>
+This will be my page for personal and fun Projects😄.
 
 <!--
 **torald64/torald64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
