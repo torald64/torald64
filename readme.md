@@ -1,7 +1,8 @@
 ## Hey, I am Aaron👋
 
 Currently I do training as an IT specialist for applicationional development.<br>
-This will be my page for personal and fun Projects😄.
+My main language is Java. Furthermore I am familiar with HTML, CSS, Java- and Typescript.
+This will be my page for personal and fun Projects😄
 
 <!--
 **torald64/torald64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
