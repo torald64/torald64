@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I am Aaron👋
+
+Currently I am in training as an IT specialist for applicationional development.
+This will be my Account for personal and fun Projects😄.
 
 <!--
 **torald64/torald64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
